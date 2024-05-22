@@ -1,4 +1,4 @@
-# 1.7 exercice for responsivness
+# 1.7 exercice for responsiveness
 
 ### 1. Change the colour
 Create a HTML file and a CSS file.
