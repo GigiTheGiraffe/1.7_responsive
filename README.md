@@ -11,7 +11,7 @@ Add three `div`: one div with the id="small", one div with the id="medium", anot
 
 Make it so only one DIV is displayed, according to the width of the current viewport.
 
-#### Not Done! (*commit*: )
+#### Done! (*commit*: Display/hide elements)
 
 ### 3. Adapt the size of the text according to the device
 In each DIV, add a title and a few paragraphs (lorem ipsum, and such). Give the title a descriptive text (for example: "Content for smartphones")
