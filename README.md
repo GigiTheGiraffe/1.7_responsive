@@ -17,7 +17,7 @@ Make it so only one DIV is displayed, according to the width of the current view
 In each DIV, add a title and a few paragraphs (lorem ipsum, and such). Give the title a descriptive text (for example: "Content for smartphones")
 Change the font size according to the device type.
 
-#### Not Done! (*commit*: )
+#### Done! (*commit*: Font size adaptating to display)
 
 ### 4. Re-Arrange
 Make it so that :
