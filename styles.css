@@ -3,13 +3,31 @@ html {
 }
 
 body {
-    @media only screen and (max-width: 299px) {
+    @media only screen and (max-width: 300px) {
         background-color: red;
+        #small {
+            display: block;
+            text-align: center;
+        }
+        #medium {display: none}
+        #large {display : none}
     }
     @media only screen and (min-width: 300px) {
         background-color: green;
+        #small {display: none}
+        #medium {
+            display: block;
+            text-align: center;
+        }
+        #large {display : none}
     }
     @media only screen and (min-width: 768px) {
         background-color: blue;
+        #small {display: none}
+        #medium {display: none}
+        #large {
+            display: block;
+            text-align: center;
+        }
     }
 }
